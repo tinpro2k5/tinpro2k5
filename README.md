@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tinpro2k5
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning bachelor 
+- 👀 I’m interested in C++, Python, Data analytics, and Cyber Security
+- 🌱 I’m currently learning a bachelor's degree 
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me: DM
 - 😄 Pronouns: ...
